@@ -4,7 +4,7 @@ Python plugin for [Nicotine+](https://nicotine-plus.org/)
 Detects and bans leechers. Will message user (you can customise the message).
 If the user shares the minimum number of files and folders, will they will be unbanned.
 
-Based on supplied Nicotine+ plugin: Leech Detector
+Based on Nicotine+ plugin [Leech Detector](https://github.com/nicotine-plus/nicotine-plus/tree/master/pynicotine/plugins/leech_detector)
 
 On [Nicotine+ on Github](https://github.com/nicotine-plus/nicotine-plus)
 
