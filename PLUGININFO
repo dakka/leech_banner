@@ -1,0 +1,4 @@
+Version = "2024-06-27r30"
+Authors = ["dakka"]
+Name = "Leech_Banner"
+Description = "Detects when leechers are downloading, and bans them. Based on leech detector. If they share more, will unban them.\n\nMessage placeholders:\n- %files% : number of required files\n- %folders% : number of required folders"
