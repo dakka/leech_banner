@@ -13,6 +13,6 @@ On [Nicotine+ on Github](https://github.com/nicotine-plus/nicotine-plus)
 - %folders% : number of required folders
 
 # Install
-Copy to `[user]\AppData\Roaming\nicotine\plugins\Leech_banner`
+Copy to `[user]\AppData\Roaming\nicotine\plugins\Leech_banner` or equivalent location on other platforms.
 
 Configure in Nicotine+ plugin settings
